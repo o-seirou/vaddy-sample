@@ -9,7 +9,7 @@
 	<div id="content">
 		<h1 class="title">{{ page.Title }}</h1>
 		<div class="body">
-		{{ page.Body }}
+		{{ page.Body | markdown }}
 		</div>
 		<span class="date">Updated at: {{ page.UpdatedAt | to_localdate | date: "2006/01/02 03:04:05" }}</span>
 		<br />
