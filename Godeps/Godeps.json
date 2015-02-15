@@ -1,0 +1,59 @@
+{
+	"ImportPath": "github.com/o-seirou/vaddy-sample",
+	"GoVersion": "go1.4.1",
+	"Deps": [
+		{
+			"ImportPath": "code.google.com/p/go.text/unicode/norm",
+			"Comment": "null-116",
+			"Rev": "5b2527008a4c8988ca9dc6f010ebfb9dae67150b"
+		},
+		{
+			"ImportPath": "github.com/extemporalgenome/slug",
+			"Rev": "de70af6e24d0e6bdd6eaef276d2e9910e68a1397"
+		},
+		{
+			"ImportPath": "github.com/flosch/go-humanize",
+			"Rev": "3ba51eabe50663842d569003bab93fc256883173"
+		},
+		{
+			"ImportPath": "github.com/flosch/pongo2",
+			"Comment": "v1.0-rc1-147-g2ccf0ed",
+			"Rev": "2ccf0edbd6826bc9ac7c0e9a5c7b08bb4a05db68"
+		},
+		{
+			"ImportPath": "github.com/flosch/pongo2-addons",
+			"Rev": "bb4da1901facc08b4edd9261050143b95e36d0a1"
+		},
+		{
+			"ImportPath": "github.com/lib/pq",
+			"Comment": "go1.0-cutoff-20-g308412e",
+			"Rev": "308412e3e54d78c6411b1d5ef52c0660b921c81b"
+		},
+		{
+			"ImportPath": "github.com/naoina/genmai",
+			"Rev": "c416943f90da3b35a83255cac4702e203525f00d"
+		},
+		{
+			"ImportPath": "github.com/naoina/go-stringutil",
+			"Rev": "360db0db4b01d34e12a2ec042c09e7d37fece761"
+		},
+		{
+			"ImportPath": "github.com/russross/blackfriday",
+			"Comment": "v1.2-36-g7001890",
+			"Rev": "7001890e79eb6a002a5c8acfea9746508eb17829"
+		},
+		{
+			"ImportPath": "github.com/shurcooL/sanitized_anchor_name",
+			"Rev": "9a8b7d4e8f347bfa230879db9d7d4e4d9e19f962"
+		},
+		{
+			"ImportPath": "github.com/zenazn/goji",
+			"Comment": "v0.8.3-3-g1e119c3",
+			"Rev": "1e119c31799f7a26844db00ed0a73893a2d046be"
+		},
+		{
+			"ImportPath": "golang.org/x/text/transform",
+			"Rev": "bfad311ce93436dc888b40d76c78f99dc3104473"
+		}
+	]
+}

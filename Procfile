@@ -1,0 +1,1 @@
+web: vaddy-sample
